@@ -5,5 +5,6 @@ public class gtr {
 		
 	
 System.out.println("djasj");
+System.out.println("hehe");
 }
 }
